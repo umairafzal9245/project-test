@@ -169,7 +169,7 @@
     "num_languages": 0,
     "language_ids_file": null,
     "use_speaker_encoder_as_loss": false,
-    "speaker_encoder_config_path": "./speaker_encoder/config.json",
+    "speaker_encoder_config_path": "./speaker_encoder/config_se.json",
     "speaker_encoder_model_path": "./speaker_encoder/model_se.pth.tar",
     "condition_dp_on_speaker": true,
     "freeze_encoder": false,
